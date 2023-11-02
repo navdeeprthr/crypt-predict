@@ -32,7 +32,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install requirement.txt
+  pip install requirements.txt
 ```
 
 Start the server

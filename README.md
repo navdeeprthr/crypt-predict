@@ -32,12 +32,12 @@ Go to the project directory
 Install dependencies
 
 ```bash
- pip install requirement.txt
+  pip install requirement.txt
 ```
 
 Start the server
 
 ```bash
- streamlit run app.py
+  streamlit run app.py
 ```
 
